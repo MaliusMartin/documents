@@ -1,4 +1,7 @@
 # Supa Tools Terms and Conditions
+<p align="center">
+  <img src="/Supa Tools/icon.png" alt="Supa Tools" width="96" height="96" />
+</p>
 
 **Last updated:** November 5, 2026
 
