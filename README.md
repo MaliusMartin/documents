@@ -38,7 +38,8 @@ Offline-friendly toolkit for **PDF**, **images**, **QR & barcodes**, and everyda
 
 ### 2. Agri AI Kilimo Sauti
 
-Short one-line description of what this app does.
+Agri AI Kilimo Sauti is your intelligent farming companion, powered by advanced artificial intelligence to help you achieve better harvests and maximize your agricultural success.
+What We Offer
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.maliusmartin.AgriAiKilimoSauti">
