@@ -1,8 +1,5 @@
 # Welcome
 
-<p align="center">
-  <img src="/Supa Tools/icon.png" alt="Apps by Budatechnology" width="96" height="96" style="border-radius: 20px;" />
-</p>
 
 <h1 align="center">Budatechnology Apps</h1>
 
@@ -15,6 +12,11 @@
 ## Our apps
 
 ### 1. Supa Tools
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.maliusmartin.qrandbarcodescannerandgenerator">
+  <img src="/Supa Tools/icon.png" alt="Apps by Budatechnology" width="96" height="96" style="border-radius: 20px;" />
+</p>
 
 Offline-friendly toolkit for **PDF**, **images**, **QR & barcodes**, and everyday utilities — most processing stays on your device.
 
@@ -37,6 +39,11 @@ Offline-friendly toolkit for **PDF**, **images**, **QR & barcodes**, and everyda
 ---
 
 ### 2. Agri AI Kilimo Sauti
+
+<p align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.maliusmartin.AgriAiKilimoSauti">
+  <img src="/Supa Tools/AgriAIicon.png" alt="Apps by Budatechnology" width="96" height="96" style="border-radius: 20px;" />
+</p>
 
 Agri AI Kilimo Sauti is your intelligent farming companion, powered by advanced artificial intelligence to help you achieve better harvests and maximize your agricultural success.
 What We Offer
