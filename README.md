@@ -30,8 +30,8 @@ Offline-friendly toolkit for **PDF**, **images**, **QR & barcodes**, and everyda
 
 **Links**
 
-- [Privacy Policy](./Supa Tools/PrivacyPolicy.md)
-- [Terms and Conditions](./Supa Tools/TermsAndConditions.md)
+- [Privacy Policy](https://github.com/MaliusMartin/documents/blob/main/Supa%20Tools/PrivacyPolicy.md)
+- [Terms and Conditions](https://github.com/MaliusMartin/documents/blob/main/Supa%20Tools/TermsAndConditions.md)
 - [Google Play](https://play.google.com/store/apps/details?id=com.maliusmartin.qrandbarcodescannerandgenerator)
 
 ---
