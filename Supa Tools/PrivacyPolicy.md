@@ -1,5 +1,9 @@
 # Supa Tools Privacy Policy
 
+<p align="center">
+  <img src="/Supa Tools/icon.png" alt="Supa Tools" width="96" height="96" />
+</p>
+
 **Last updated:** November 5, 2026
 
 **Supa Tools is built offline-first.** Most features — PDF tools, image tools, QR/barcode generation, and business card creation — run on your device. Your files, scans, and creations are not uploaded to our servers for those tools.
